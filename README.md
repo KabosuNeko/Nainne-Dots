@@ -32,6 +32,13 @@ A beautifully crafted Hyprland rice with carefully curated components for a mode
 ## 📸 Showcase
 <img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/01686539-9b4b-4745-895a-af3878a1ddcd" />
 
+<img width="1921" height="1081" alt="swappy-20251029-151319" src="https://github.com/user-attachments/assets/eb3c210f-50b8-49ff-a8ff-0cbb11ec69f9" />
+
+
+
+https://github.com/user-attachments/assets/83a6e801-fd9f-47ee-8eaa-25b48246a2ca
+
+
 
 ---
 
