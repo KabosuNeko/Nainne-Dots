@@ -1,2 +1,86 @@
-# Nainne-Dots
-My daily driver Desktop with Hyprland Wayland Window Manager
+# 🌸 Nainne-Dots
+
+> My daily driver Desktop featuring Hyprland Wayland Window Manager
+
+A beautifully crafted Hyprland rice with carefully curated components for a modern, smooth desktop experience.
+
+---
+
+## ✨ Features
+
+- 🪟 **Dynamic Tiling** - Efficient workspace management with Hyprland
+- 🎨 **Auto Color Schemes** - Wallpaper-based theming with Wallust
+- ⚡ **GPU Accelerated** - Blazing fast terminal with Kitty
+- 🔔 **Modern Notifications** - Beautiful notification center with SwayNC
+- 📊 **Customizable Status Bar** - Feature-rich Waybar configuration
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Tool | Description |
+|-----------|------|-------------|
+| **Window Manager** | [Hyprland](https://github.com/hyprwm/Hyprland) | Dynamic tiling Wayland compositor |
+| **Terminal** | [Kitty](https://sw.kovidgoyal.net/kitty/) | GPU-based terminal emulator |
+| **Launcher** | [Wofi](https://hg.sr.ht/~scoopta/wofi) | Wayland-native app launcher |
+| **Status Bar** | [Waybar](https://github.com/Alexays/Waybar) | Highly customizable bar |
+| **Notifications** | [SwayNC](https://github.com/ErikReider/SwayNotificationCenter) | GTK notification daemon |
+| **Color Scheme** | [Wallust](https://codeberg.org/explosion-mental/wallust) | Wallpaper-based theme generator |
+
+---
+
+## 📸 Showcase
+
+
+---
+
+## 🚀 Installation
+
+### Prerequisites
+
+This configuration builds upon [JaKooLit's Hyprland Dots](https://github.com/JaKooLit/Hyprland-Dots). You'll need to install it first as the base system.
+
+### Quick Start
+
+1. **Install the base system**
+   ```bash
+   # Follow the installation guide at:
+   # https://github.com/JaKooLit/Hyprland-Dots
+   ```
+
+2. **Clone this repository**
+   ```bash
+   git clone https://github.com/KabosuNeko/Nainne-Dots
+   cd Nainne-Dots
+   ```
+
+3. **Install additional dependencies**
+   ```bash
+   yay -S materia-transparent-gtk-theme-git
+   ```
+
+4. **Apply the configuration**
+   ```bash
+   cp -r .config/* ~/.config/
+   ```
+
+5. **Restart and enjoy!** 🎉
+   ```bash
+   # Log out and log back in, or restart Hyprland
+   ```
+
+---
+
+## 🙏 Credits
+
+Special thanks to [JaKooLit](https://github.com/JaKooLit) for providing the excellent base system that made this configuration possible.
+
+---
+
+<div align="center">
+
+Made with 💜 by [KabosuNeko](https://github.com/KabosuNeko)
+
+⭐ Star this repo if you find it helpful!
+
+</div>
