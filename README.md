@@ -30,7 +30,16 @@ A beautifully crafted Hyprland rice with carefully curated components for a mode
 ---
 
 ## 📸 Showcase
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/01686539-9b4b-4745-895a-af3878a1ddcd" />
 
+
+---
+
+---
+
+#### ⌨ Keybinds
+
+- Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
 
 ---
 
