@@ -22,7 +22,7 @@ A beautifully crafted Hyprland rice with carefully curated components for a mode
 |-----------|------|-------------|
 | **Window Manager** | [Hyprland](https://github.com/hyprwm/Hyprland) | Dynamic tiling Wayland compositor |
 | **Terminal** | [Kitty](https://sw.kovidgoyal.net/kitty/) | GPU-based terminal emulator |
-| **Launcher** | [Wofi](https://hg.sr.ht/~scoopta/wofi) | Wayland-native app launcher |
+| **Launcher** | [Rofi](https://github.com/davatorium/rofi) | Wayland-native app launcher |
 | **Status Bar** | [Waybar](https://github.com/Alexays/Waybar) | Highly customizable bar |
 | **Notifications** | [SwayNC](https://github.com/ErikReider/SwayNotificationCenter) | GTK notification daemon |
 | **Color Scheme** | [Wallust](https://codeberg.org/explosion-mental/wallust) | Wallpaper-based theme generator |
