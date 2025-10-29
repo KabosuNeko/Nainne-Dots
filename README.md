@@ -57,17 +57,17 @@ This configuration builds upon [JaKooLit's Hyprland Dots](https://github.com/JaK
    # https://github.com/JaKooLit/Hyprland-Dots
    ```
 
-2. **Clone this repository**
+2. **Install additional dependencies**
+   ```bash
+   yay -S materia-transparent-gtk-theme-git
+   ```
+   
+3. **Clone this repository**
    ```bash
    git clone https://github.com/KabosuNeko/Nainne-Dots
    cd Nainne-Dots
    ```
-
-3. **Install additional dependencies**
-   ```bash
-   yay -S materia-transparent-gtk-theme-git
-   ```
-
+   
 4. **Apply the configuration**
    ```bash
    cp -r .config/* ~/.config/
